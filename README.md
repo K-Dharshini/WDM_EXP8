@@ -99,9 +99,9 @@ else:
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/54e33dce-59d0-4ca7-a3ae-299a1c2f29c5)
-
 ![image](https://github.com/user-attachments/assets/6cf5327e-006e-44ea-a5e5-4c423fb98ca6)
+
+![image](https://github.com/user-attachments/assets/54e33dce-59d0-4ca7-a3ae-299a1c2f29c5)
 
 ### Result:
 Thus, we have successfully performed web scraping on Amazon using Python and BeautifulSoup, extracted product names and prices based on a search query, and visualized the data using a horizontal bar chart. This experiment demonstrates how structured information can be retrieved from an unstructured HTML page and used for data analysis or visualization.
